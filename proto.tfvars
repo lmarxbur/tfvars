@@ -1,1 +1,1 @@
- ec2_instance_type                       = "t3a.small" 
+ ec2_instance_type                       = "t3a.medium" 
